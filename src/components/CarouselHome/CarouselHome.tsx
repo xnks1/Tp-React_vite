@@ -8,7 +8,7 @@ const CarouselHome = () => {
          <img 
             className="d-block w-100"
             style={{maxHeight: "500px" , objectFit:'cover'}}
-            src="src/assets/images/imgC1.jpg"
+            src="https://cdn1.c1rca.com.ar/shop/modules/anthemeblocks/images/64e77c97c300c.jpg"
             alt="first" 
          
          />
@@ -27,7 +27,7 @@ const CarouselHome = () => {
     <img 
             className="d-block w-100"
             style={{maxHeight: "500px" , objectFit:'cover'}}
-            src="src/assets/images/imgC2.jpg"
+            src="https://cdn2.c1rca.com.ar/shop/modules/anthemeblocks/images/64f8b4a256f0d.jpg"
             alt="second" 
          
          />
@@ -44,7 +44,7 @@ const CarouselHome = () => {
       <img 
             className="d-block w-100"
             style={{maxHeight: "500px" , objectFit:'cover'}}
-            src="src/assets/images/imgC3.jpg"
+            src="https://cdn3.c1rca.com.ar/shop/modules/anthemeblocks/images/649aedc9e1610.jpg.webp"
             alt="third" 
          
          />
